@@ -32,4 +32,4 @@ This project is a Flutter application that lets you explore, organize, and discu
 
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SHiROKaRiToRu/BookList-App
