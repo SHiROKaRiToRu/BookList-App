@@ -12,11 +12,11 @@ This project is a Flutter application that lets you explore, organize, and discu
 
 ### Features
 
-- 🔍 **Search Books** – Find any book from our book API.  
-- ⭐ **Rate Books** – Give your reads a thumbs up (or down!).  
-- 💬 **Discuss Books** – Chat with other book lovers.  
-- 📖 **Reading List** – Track books you’re reading or plan to read.  
-- 🗂 **Categorize Books** – Organize your collection any way you like.  
+-  **Search Books** – Find any book from our book API.  
+-  **Rate Books** – Give your reads a thumbs up (or down!).  
+-  **Discuss Books** – Chat with other book lovers.  
+-  **Reading List** – Track books you’re reading or plan to read.  
+-  **Categorize Books** – Organize your collection any way you like.  
 
 ---
 
