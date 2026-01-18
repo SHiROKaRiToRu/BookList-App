@@ -1,6 +1,6 @@
 # My Booklist App, flutter_project
 
-Welcome to **Booklist** – your personal book hub! Keep track of your reading, rate your favorite books, join discussions, and discover new reads.  
+Welcome to **MyBooklist** – your personal book hub! Keep track of your reading, rate your favorite books, join discussions, and discover new reads.  
 
 ---
 
